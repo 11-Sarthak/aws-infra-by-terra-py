@@ -15,7 +15,7 @@ command3=f'terraform -chdir={directory} destroy -auto-approve'
 
 
 
-output=terraform_run("command you want to enter")
+output=terraform_run("command")
 print(output)
 
  
