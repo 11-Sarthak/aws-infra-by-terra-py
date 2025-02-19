@@ -1,0 +1,1 @@
+f"terraform -chdir={directory} plan"
